@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research",
+    "section": "",
+    "text": "Doeleman, R., D. Langenmayr, and D. Schindler. Could Country-by-Country Reporting Increase Profit Shifting?\nCESifo Working Paper No. 11464; WU International Taxation Research Paper Series No. 2024-13.\nSince 2016, Country-by-Country reporting has provided tax authorities with information about multinationals’ worldwide activities. It has been hailed as a game-changer for corporate taxation, enabling tax authorities to target multinational firms with high profits in tax havens. We model Country-by-Country reporting as increasing both tax planning and audit costs for profit-shifting multinationals, where the latter depend on the share of profits held in tax havens. Then, Country-by-Country reporting makes shifting profits from a high-tax country to a tax haven relatively more attractive than shifting from a low-tax country. Under plausible conditions, profit shifting from high-tax affiliates may increase relative to no Country-by-Country reporting. We confirm these changes in profit-shifting patterns using a staggered difference-in-differences design. The opposing effects for low-tax and high-tax countries also explain the mixed findings of previous empirical evidence on Country-by-Country reporting.\n\nAmberger, H., Doeleman, R., and Pendl, S. (Mis)measurement of Income Shifting. WU International Taxation Research Paper Series No. 2026-01.\nWe match corporate tax return data with financial statement data to estimate tax-motivated cross-border income shifting in Austria. Our baseline estimate indicates a tax semi-elasticity of taxable income reported on corporate tax returns of -0.9. In contrast, we find little evidence of income shifting when using financial statement profits to proxy for taxable income — a common approach in prior research. However, adjusting financial statement profits for tax-exempt dividend income yields estimates consistent with our main findings. Additional tests indicate that failing to account for dividend income can distort inferences about the relevance of specific income-shifting strategies. Our findings highlight that using financial statement data to approximate taxable income can affect the reliability of income-shifting estimates."
+  },
+  {
+    "objectID": "projects.html#working-papers",
+    "href": "projects.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Doeleman, R., D. Langenmayr, and D. Schindler. Could Country-by-Country Reporting Increase Profit Shifting?\nCESifo Working Paper No. 11464; WU International Taxation Research Paper Series No. 2024-13.\nSince 2016, Country-by-Country reporting has provided tax authorities with information about multinationals’ worldwide activities. It has been hailed as a game-changer for corporate taxation, enabling tax authorities to target multinational firms with high profits in tax havens. We model Country-by-Country reporting as increasing both tax planning and audit costs for profit-shifting multinationals, where the latter depend on the share of profits held in tax havens. Then, Country-by-Country reporting makes shifting profits from a high-tax country to a tax haven relatively more attractive than shifting from a low-tax country. Under plausible conditions, profit shifting from high-tax affiliates may increase relative to no Country-by-Country reporting. We confirm these changes in profit-shifting patterns using a staggered difference-in-differences design. The opposing effects for low-tax and high-tax countries also explain the mixed findings of previous empirical evidence on Country-by-Country reporting.\n\nAmberger, H., Doeleman, R., and Pendl, S. (Mis)measurement of Income Shifting. WU International Taxation Research Paper Series No. 2026-01.\nWe match corporate tax return data with financial statement data to estimate tax-motivated cross-border income shifting in Austria. Our baseline estimate indicates a tax semi-elasticity of taxable income reported on corporate tax returns of -0.9. In contrast, we find little evidence of income shifting when using financial statement profits to proxy for taxable income — a common approach in prior research. However, adjusting financial statement profits for tax-exempt dividend income yields estimates consistent with our main findings. Additional tests indicate that failing to account for dividend income can distort inferences about the relevance of specific income-shifting strategies. Our findings highlight that using financial statement data to approximate taxable income can affect the reliability of income-shifting estimates."
+  },
+  {
+    "objectID": "projects.html#work-in-progress",
+    "href": "projects.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\nDoeleman, R. Substance-ial Investment Shifting: The Role of Substance in Anti-Tax Avoidance Rules.\nMultinational enterprises (MNEs) weigh the tax benefits of profit shifting to low-tax affiliates against the real investment needed to meet substance requirements. Substance rules stipulate that if ann MNE has enough real activity in a low-tax country, it can continue shifting its profits there. This paper models how MNEs structure their corporate groups under anti-tax avoidance rules with substance exemptions. The model predicts two effects: an extensive margin effect where substance rules reduce the number of low-tax affiliates, and an intensive margin effect where remaining low-tax affiliates receive greater investment. I confirm this pattern in a staggered difference-in-differences design using affiliate-level data from 2014–2022.\n\nAmberger, H., and Doeleman, R. Real Effects of Income Shifting.\nWe study how income shifting and foreign corporate tax rate changes affect real activity within multinational enterprises. Combining Austrian corporate income tax returns with ownership data, we construct entity-level measures of income-shifting intensity and exploit variation from foreign corporate tax rate changes to disentangle investment responses to income shifting. Our findings indicate that firms with higher income-shifting intensity invest more in fixed assets but show lower productivity and greater overinvestment, distorting capital allocation efficiency. In contrast, a decrease in foreign tax rates reduces domestic fixed-asset investment, suggesting a reallocation toward lower-tax locations. We conclude that income shifting and tax rate changes have distinct effects on investment."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download my CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Bio, interests, background, etc."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ruby Doeleman",
+    "section": "",
+    "text": "Mail Google Scholar LinkedIn X BlueSky\n\n\n\nI am a fourth-year Economics PhD Student in the Doctoral Program for International Business Taxation at the WU Vienna University of Economics and Business.\nMy field of research is public economics. With my background in both economics and tax law, my research focuses on combining economic analysis with institutional details to contribute research on efficient, effective, and fair international corporate taxation.\nI hold a BSc in Policy Economics, a BSc in Economics and Taxation, and an MSc in Economics and Taxation from the Erasmus School of Economics.\nI teach the MSc course Tax Policy at the Erasmus School of Economics, and the BSc course Taxation of Corporate Income at WU Vienna."
+  }
+]
