@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ruby Doeleman"
+  navbar:
+    background: white
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+
+format:
+  html:
+    theme: 
+      light: [cosmo]
+    css: styles.css
+    toc: false
+    page-layout: full

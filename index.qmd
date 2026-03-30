@@ -1,0 +1,39 @@
+---
+title: ""
+---
+
+:::: {.grid .align-top}
+
+::: {.g-col-4}
+
+![](images/Ruby_Profile.jpg){width=210}
+
+<div class="profile-links">
+
+[Mail](mailto:rubydoeleman@wu.ac.at)
+[Google Scholar](https://scholar.google.com/citations?user=ESTk7dQAAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/rubydoeleman/) 
+[X](https://x.com/rubydoeleman) 
+[BlueSky](https://bsky.app/profile/rubydoeleman.bsky.social)
+
+</div>
+
+:::
+
+::: {.g-col-8}
+
+I am a fourth-year Economics PhD Student in the
+[Doctoral Program for International Business Taxation](https://www.wu.ac.at/dibt/about)
+at the WU Vienna University of Economics and Business.
+
+My field of research is public economics. With my background in both economics and tax law,
+my research focuses on combining economic analysis with institutional details to contribute
+research on efficient, effective, and fair international corporate taxation.
+
+I hold a BSc in Policy Economics, a BSc in Economics and Taxation, and an MSc in Economics and Taxation from the [Erasmus School of Economics](https://www.eur.nl/en/ese).
+
+I teach the [MSc course Tax Policy](https://eur.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=FEM11040&collegejaar=2025) at the Erasmus School of Economics, and the [BSc course Taxation of Corporate Income](https://vvz.wu.ac.at/cgi-bin/vvz.pl?C=S&LANG=DE&U=H&S=25W&LV=3&L2=S&L3=S&T=taxation+of+corporate+income&L=&I=&JOIN=AND) at WU Vienna.
+
+:::
+
+::::

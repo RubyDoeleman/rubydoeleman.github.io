@@ -1,0 +1,15 @@
+{
+  "hash": "c158b3c58867e43aae7cceb59e2a7356",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Ruby Doeleman\"\n---\n\n\n\n\n# Ruby Doeleman\n\n*PhD Student in Economics*\n\n![](images/Ruby_Profile.jpg){alt=\"Ruby Doeleman\" style=\"border-radius:50%;\" fig-align=\"left\" width=\"200\"}\n\nI am a fourth-year Economics PhD Student in the [Doctoral Program for International Business Taxation](https://www.wu.ac.at/dibt/about) at the WU Vienna University of Economics and Business.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n9 + 10\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 19\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
