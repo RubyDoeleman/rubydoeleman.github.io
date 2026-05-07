@@ -5,7 +5,9 @@ title: "Research"
 ## Working Papers
 
 Doeleman, R., D. Langenmayr, and D. Schindler. **Could Country-by-Country Reporting Increase Profit Shifting?**  
-*[CESifo Working Paper No. 11464](https://www.ifo.de/en/cesifo/publications/2024/working-paper/could-country-country-reporting-increase-profit-shifting)*; *[WU International Taxation Research Paper Series No. 2024-13](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024358)*.
+*[CESifo Working Paper No. 11464](https://www.ifo.de/en/cesifo/publications/2024/working-paper/could-country-country-reporting-increase-profit-shifting)*; *[WU International Taxation Research Paper Series No. 2024-13](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024358)*. 
+
+*Review and Resubmit at American Economic Journal: Economic Policy.*
 
 Since 2016, Country-by-Country reporting has provided tax authorities with information about multinationals' worldwide activities. It has been hailed as a game-changer for corporate taxation, enabling tax authorities to target multinational firms with high profits in tax havens. We model Country-by-Country reporting as increasing both tax planning and audit costs for profit-shifting multinationals, where the latter depend on the share of profits held in tax havens. Then, Country-by-Country reporting makes shifting profits from a high-tax country to a tax haven relatively more attractive than shifting from a low-tax country. Under plausible conditions, profit shifting from high-tax affiliates may increase relative to no Country-by-Country reporting. We confirm these changes in profit-shifting patterns using a staggered difference-in-differences design. The opposing effects for low-tax and high-tax countries also explain the mixed findings of previous empirical evidence on Country-by-Country reporting.
 
