@@ -6,7 +6,7 @@ title: ""
 
 ::: {.g-col-4}
 
-![Ruby Doeleman, PhD student in economics at WU Vienna](images/Ruby_Profile.jpg){width=210}
+![Ruby Doeleman, PhD student in public economics at WU Vienna](images/Ruby_Profile.jpg){width=210}
 
 <div class="profile-links">
 
