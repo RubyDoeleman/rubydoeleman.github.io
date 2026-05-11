@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Ruby Doeleman"
+  site-url: "https://rubydoeleman.github.io"
+  description: "PhD researcher in public economics and international corporate taxation at WU Vienna."
+
   navbar:
     background: white
     left:
@@ -16,8 +19,27 @@ website:
 
 format:
   html:
-    theme: 
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="XXXXX" />
+
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "name": "Ruby Doeleman",
+          "url": "https://rubydoeleman.github.io/",
+          "jobTitle": "PhD Student in Economics",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "WU Vienna University of Economics and Business"
+          }
+        }
+        </script>
+
+    theme:
       light: [cosmo]
+
     css: styles.css
     toc: false
     page-layout: full

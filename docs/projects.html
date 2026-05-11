@@ -66,6 +66,21 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<meta name="google-site-verification" content="XXXXX">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ruby Doeleman",
+  "url": "https://rubydoeleman.github.io/",
+  "jobTitle": "PhD Student in Economics",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "WU Vienna University of Economics and Business"
+  }
+}
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -247,7 +262,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/rubydoeleman\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
